@@ -14,7 +14,7 @@ In this folder, you will find the simplest plugins to be used as an examples whi
 ### Search and replace
 
 * [example_search_replace](./example_search_replace) - an example of search & replace feature with settings. 
-* [searchAndReplaceOnStart](./searchAndReplaceOnStart) shows how to automatically replace content when you start the editor. In this case, text “ONLYOFFICE” will be replaced with the text "ONLYOFFICE is cool". 
+* [searchAndReplaceOnStart](./searchAndReplaceOnStart) shows how to automatically replace content when you start the editor. In this case, text “UNIVAULTOFFICE” will be replaced with the text "UNIVAULTOFFICE is cool". 
 
 ### Work with comments
 
@@ -29,7 +29,7 @@ In this folder, you will find the simplest plugins to be used as an examples whi
 
 ### Third-party services integration
 
-* [chrome_extension_example](./chrome_extension_example) shows how to turn your plugin into a Chrome extension to add its functionality to the cloud version of ONLYOFFICE.
+* [chrome_extension_example](./chrome_extension_example) shows how to turn your plugin into a Chrome extension to add its functionality to the cloud version of UNIVAULTOFFICE.
 * [externallistener](./externallistener) shows how to manipulate the editor from an external panel of a 3rd party service. 
 
 ### Other 
@@ -39,10 +39,10 @@ In this folder, you will find the simplest plugins to be used as an examples whi
 
 ## Documentation
 
-ONLYOFFICE API - https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+UNIVAULTOFFICE API - https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/
 
 ## User feedback and support
 
-If you have any problems or question about ONLYOFFICE plugins, use the issues section here, in this repository. 
+If you have any problems or question about UNIVAULTOFFICE plugins, use the issues section here, in this repository. 
 
 

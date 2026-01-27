@@ -2,7 +2,7 @@
 
 This plugin shows how add for content control combo box like in plugin example_autocomplete.
 
-It is called "example_work_with_content_controls_combo" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It is called "example_work_with_content_controls_combo" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 
@@ -10,4 +10,4 @@ It is called "example_work_with_content_controls_combo" in the interface and isn
 2. Click on content control. If plugin find necessary tag, then you will see input helper window with some options.
 2. Select an option and press the "Enter" button or click to paste option value in content control.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

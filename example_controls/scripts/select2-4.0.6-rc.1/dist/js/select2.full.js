@@ -772,7 +772,7 @@ S2.define('select2/utils',[
     $element.append($nodes);
   };
 
-  // Cache objects in Utils.__cache instead of $.data (see #4346)
+  // Cache objects in Utils.__cache instead of $.data (see #2026)
   Utils.__cache = {};
 
   var id = 0;

@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -21,7 +21,7 @@
 	{
 		document.getElementById('btn_paste').onclick = function() {
 			// if you want to change some parametrs read more about it. 
-			// https://api.onlyoffice.com/docs/plugin-and-macros/interacting-with-editors/text-document-api/Methods/AddContentControl/
+			// https://api.univaultoffice.github.io/docs/plugin-and-macros/interacting-with-editors/text-document-api/Methods/AddContentControl/
 			window.Asc.plugin.executeMethod("AddContentControl", [1, {"Id" : 7, "Tag" : "{tag_example}", "Lock" : 3}]);
 		};
 	};

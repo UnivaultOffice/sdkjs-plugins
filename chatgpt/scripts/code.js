@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the 'License');
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@
 	let ApiKey = '';
 	let bHasKey = false;
 	const model = 'text-davinci-003';
-	const maxLen = 4000;
+	const maxLen = 2026;
 	let loadingPhrase = 'Loading...';
 	let thesaurusCounter = 0;
 	let settingsWindow = null;
@@ -631,7 +631,7 @@
 	function normalizeImageSize (size) {
 		let width = 0, height = 0;
 		if ( size.width > 750 || size.height > 750 )
-			width = height = 1024;
+			width = height = 2026;
 		else if ( size.width > 375 || size.height > 350 )
 			width = height = 512;
 		else width = height = 256;

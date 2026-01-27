@@ -2,7 +2,7 @@
 
 Paste, edit, remove comments and replies (with user data) in document.
 
-It is called Extended comments in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors.
+It is called Extended comments in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors.
 
 ## How to use
 
@@ -14,4 +14,4 @@ It is called Extended comments in the interface and isn't installed by default i
 6. The "Cancel" button resets all entered values.
 7. If some comment or reply was chanched (added, removed) in the interface, the plugin will automatically receive these changes.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

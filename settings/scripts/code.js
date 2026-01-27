@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -66,7 +66,7 @@
 					"111" : {
 						"text" : "Text in form with tag 111", 
 						"checkBox" : "true", 
-						"picture" : "https://upload.wikimedia.org/wikipedia/commons/9/91/ONLYOFFICE_logo.png",
+						"picture" : "https://upload.wikimedia.org/wikipedia/commons/9/91/UNIVAULTOFFICE_logo.png",
 						"comboBox" : "item1"
 						},
 					"222" : {
@@ -75,7 +75,7 @@
 						"comboBox" : "item2"
 						},
 					"333" : {
-						"text" : "OnlyOffice"
+						"text" : "UnivaultOffice"
 					}
 				}
 			})

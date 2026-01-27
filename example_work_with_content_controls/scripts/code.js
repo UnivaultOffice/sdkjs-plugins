@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -29,7 +29,7 @@
 		\"Appearance\" : 2\r\n\
 	},\r\n\
 \r\n\
-	\"Url\" : \"https://personal.onlyoffice.com/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
+	\"Url\" : \"https://personal.univaultoffice.github.io/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
 \r\n\
 	\"Format\" : \"docx\"\r\n\
 },\r\n\
@@ -43,7 +43,7 @@
 		\"Color\" : { \"R\" : 0, \"G\" : 255, \"B\" : 0 }\r\n\
 	},\r\n\
 \r\n\
-	\"Url\" : \"https://personal.onlyoffice.com/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
+	\"Url\" : \"https://personal.univaultoffice.github.io/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
 \r\n\
 	\"Format\" : \"docx\"\r\n\
 },\r\n\
@@ -65,7 +65,7 @@
 		\"Lock\" : 0\r\n\
 	},\r\n\
 \r\n\
-	\"Url\" : \"https://personal.onlyoffice.com/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
+	\"Url\" : \"https://personal.univaultoffice.github.io/products/files/httphandlers/filehandler.ashx?action=view&fileid=4356181&version=0&doc=SUp1RjRQbFVOeExxTE9PZ1RwRUxMcWhpajZJL0MyblB6dU9lbEFaZmNCND0_NDM1NjE4MQ\",\r\n\
 \r\n\
 	\"Format\" : \"docx\"\r\n\
 },\r\n\

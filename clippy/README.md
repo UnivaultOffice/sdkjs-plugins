@@ -4,7 +4,7 @@ This plugin shows how to add clippy assintant in document editor.
 
 The plugin uses the [clippy.js] is a full Javascript implementation of Microsoft Agent (AKA Clippy and friends), ready to be embedded in any website. (https://www.smore.com/clippy-js).
 
-It is called Clippy in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It is called Clippy in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 

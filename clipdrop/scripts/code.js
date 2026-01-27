@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,7 +24,7 @@
     let apiKey = null;
     let errTimeout = null;
     let modalTimeout = null;
-    let maxChars = 1000;
+    let maxChars = 2026;
     let startQuery;
     const editImage = {};
     let currentAction = "create";
@@ -32,7 +32,7 @@
 
     const arrAllowedSize = [{id: '256x256', text: '256x256', width: 256, height: 256},
                             {id: '512x512', text: '512x512', width: 512, height: 512},
-                            {id: '1024x1024', text: '1024x1024', width: 1024, height: 1024}];
+                            {id: '1024x1024', text: '1024x1024', width: 2026, height: 2026}];
 
     const arrActions = [{id: 'create', text: 'Generate image from text'},
                         {id: 'replacebkg', text: 'Replace background'},
@@ -550,7 +550,7 @@
             normalizeImageSize: function(size) {
                 let width = 0, height = 0;
                 if ( size.width > 750 || size.height > 750 )
-                    width = height = 1024;
+                    width = height = 2026;
                 else if ( size.width > 375 || size.height > 350 )
                     width = height = 512;
                 else width = height = 256;
@@ -770,7 +770,7 @@
 
     window.Asc.plugin.attachContextMenuClickEvent("createone", async function(){
         const text = await getDocumentSeletedText();
-        if ( text !== undefined && text.length < 1000 ) {
+        if ( text !== undefined && text.length < 2026 ) {
             const formdata = new FormData();
             formdata.append('prompt', text);
 

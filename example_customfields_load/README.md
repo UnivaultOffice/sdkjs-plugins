@@ -2,7 +2,7 @@
 
 Load custom fields from document (the fields should already be added to the document). This plugin works in pair with plugin "Example  add custom fields".
 
-It is called Example load custom fields in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It is called Example load custom fields in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 
@@ -11,4 +11,4 @@ It is called Example load custom fields in the interface and isn't installed by 
 3. For answering on question with drop down variants select one variant and press the button "Next" or "Back" to go back to the previous question.
 4. When the questions are finished, the plugin will automatically close. And your answers will appear in the document.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

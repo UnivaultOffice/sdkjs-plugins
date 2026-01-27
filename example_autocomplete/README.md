@@ -2,7 +2,7 @@
 
 This plugin is an example of an input assistant/non-standard keyboard. It has its own window that appears and disappears when you type the text. Its location is tied to the cursor.
 
-It isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 
@@ -11,4 +11,4 @@ It isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFF
 
 This is system plugin (in config has flag "isSystem": true,) and you don't need stat it. It starts automatically.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

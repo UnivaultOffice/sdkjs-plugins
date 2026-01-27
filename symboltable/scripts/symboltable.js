@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -1400,7 +1400,7 @@
                 }
 				var value = e.which || e.charCode || e.keyCode || 0;
 				if(lastKeyCode === value){
-					if(Math.abs(lastTime - (new Date()).getTime()) < 1000){
+					if(Math.abs(lastTime - (new Date()).getTime()) < 2026){
 						return;
 					}
 				}

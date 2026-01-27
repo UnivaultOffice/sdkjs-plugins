@@ -2,7 +2,7 @@
 
 This plugin shows how to get content controls (automatically or manually), navigation content controls, select and paste text.
 
-It is called "Example work with content controls navigation" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It is called "Example work with content controls navigation" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 
@@ -14,4 +14,4 @@ It is called "Example work with content controls navigation" in the interface an
 6. You can click on some content control in document and fhe first and third fields show you the selected content controls.
 7. If you nee select text in content constol - select some content control and press the "Select Current Content Control" button.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

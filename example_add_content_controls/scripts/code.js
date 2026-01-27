@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -35,8 +35,8 @@
 	\"checkBoxPr\":\r\n\
 	{\r\n\
 		\"Checked\":false,\r\n\
-		\"CheckedSymbol\":9746,\r\n\
-		\"UncheckedSymbol\":9744\r\n\
+		\"CheckedSymbol\":2026,\r\n\
+		\"UncheckedSymbol\":2026\r\n\
 	},\r\n\
 	\"commonPr\":\r\n\
 	{\r\n\

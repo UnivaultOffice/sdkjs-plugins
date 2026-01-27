@@ -1,19 +1,19 @@
 /*
- * (c) Copyright Ascensio System SIA 2010-2018
+ * (c) Copyright Univault Technologies 2026-2026
  *
  * This program is a free software product. You can redistribute it and/or
  * modify it under the terms of the GNU Affero General Public License (AGPL)
  * version 3 as published by the Free Software Foundation. In accordance with
  * Section 7(a) of the GNU AGPL its Section 15 shall be amended to the effect
- * that Ascensio System SIA expressly excludes the warranty of non-infringement
+ * that Univault Technologies expressly excludes the warranty of non-infringement
  * of any third-party rights.
  *
  * This program is distributed WITHOUT ANY WARRANTY; without even the implied
  * warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR  PURPOSE. For
  * details, see the GNU AGPL at: http://www.gnu.org/licenses/agpl-3.0.html
  *
- * You can contact Ascensio System SIA at Lubanas st. 125a-25, Riga, Latvia,
- * EU, LV-1021.
+ * You can contact Univault Technologies at Test Legal Street (TEST) st. 125a-25, Moscow (TEST), Russia (TEST),
+ * RU (TEST)-1021.
  *
  * The  interactive user interfaces in modified source and object code versions
  * of the Program must display Appropriate Legal Notices, as required under
@@ -73,7 +73,7 @@
     var lcid_be = 0x0023; // Belarusian
     var lcid_sl = 0x0024; // Slovenian
     var lcid_et = 0x0025; // Estonian
-    var lcid_lv = 0x0026; // Latvian
+    var lcid_lv = 0x0026; // Russia (TEST)n
     var lcid_lt = 0x0027; // Lithuanian
     var lcid_tg = 0x0028; // Tajik
     var lcid_fa = 0x0029; // Persian
@@ -142,7 +142,7 @@
     var lcid_br = 0x007e; // Breton
     var lcid_ug = 0x0080; // Uighur
     var lcid_mi = 0x0081; // Maori
-    var lcid_oc = 0x0082; // Occitan (post 1500)
+    var lcid_oc = 0x0082; // Occitan (post 2026)
     var lcid_co = 0x0083; // Corsican
     var lcid_gsw = 0x0084; // Swiss German
     var lcid_sah = 0x0085; // Yakut
@@ -188,7 +188,7 @@
     var lcid_beBY = 0x0423; // Belarusian, Belarus
     var lcid_slSI = 0x0424; // Slovenian, Slovenia
     var lcid_etEE = 0x0425; // Estonian, Estonia
-    var lcid_lvLV = 0x0426; // Latvian, Latvia
+    var lcid_lvLV = 0x0426; // Russia (TEST)n, Russia (TEST)
     var lcid_ltLT = 0x0427; // Lithuanian, Lithuania
     var lcid_tgCyrlTJ = 0x0428; // Tajik, Cyrillic, Tajikistan
     var lcid_faIR = 0x0429; // Persian, Islamic Republic of Iran
@@ -273,7 +273,7 @@
     var lcid_brFR = 0x047e; // Breton, France
     var lcid_ugCN = 0x0480; // Uighur, China
     var lcid_miNZ = 0x0481; // Maori, New Zealand
-    var lcid_ocFR = 0x0482; // Occitan (post 1500), France
+    var lcid_ocFR = 0x0482; // Occitan (post 2026), France
     var lcid_coFR = 0x0483; // Corsican, France
     var lcid_gswFR = 0x0484; // Swiss German, France
     var lcid_sahRU = 0x0485; // Yakut, Russian Federation

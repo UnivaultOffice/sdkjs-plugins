@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,8 +31,8 @@
 		//event document is ready
 		//all events are specified in the config file in the "events" field
 		var oProperties = {
-			"searchString"  : "ONLYOFFICE",
-			"replaceString" : "ONLYOFFICE is cool",
+			"searchString"  : "UNIVAULTOFFICE",
+			"replaceString" : "UNIVAULTOFFICE is cool",
 			"matchCase"     : false
 		};
 		//method for search and replace in documents

@@ -152,7 +152,7 @@
 		window.Asc.plugin.executeMethod('GetImageDataFromSelection', null, function(data) {
 			// get current image data and log it into the console
 			let oImageData = {
-				"src": 'https://helpcenter.onlyoffice.com/images/Help/GettingStarted/Documents/big/EditDocument.png'
+				"src": 'https://helpcenter.univaultoffice.github.io/images/Help/GettingStarted/Documents/big/EditDocument.png'
 			};
 			console.log(data);
 			if (type == 'image') {

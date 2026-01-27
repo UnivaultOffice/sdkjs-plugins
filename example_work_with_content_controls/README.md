@@ -2,7 +2,7 @@
 
 This plugin shows how to add, edit, and delete content controls using plugins.
 
-It is called "Example work with content controls" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop version](https://github.com/ONLYOFFICE/DesktopEditors) of ONLYOFFICE editors. 
+It is called "Example work with content controls" in the interface and isn't installed by default in cloud, [self-hosted](https://github.com/UnivaultOffice/DocumentServer) and [desktop version](https://github.com/UnivaultOffice/DesktopEditors) of UNIVAULTOFFICE editors. 
 
 ## How to use
 
@@ -13,4 +13,4 @@ It is called "Example work with content controls" in the interface and isn't ins
 5. Press the "Change Field State" button for change field state (is content control or not).
 6. Press the "Get Current Field ID" and check console in your browser.
 
-If you need more information about how to use or write your own plugin, please see this https://api.onlyoffice.com/docs/plugin-and-macros/get-started/
+If you need more information about how to use or write your own plugin, please see this https://api.univaultoffice.github.io/docs/plugin-and-macros/get-started/

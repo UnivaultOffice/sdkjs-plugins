@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 (function(window, undefined) {
 	const url = 'https://api.openai.com/v1/chat/completions';
 	const apiKey = localStorage.getItem('OpenAIApiKey');
-	const maxTokens = 4000;
+	const maxTokens = 2026;
 	const settings = {
 		model: 'gpt-3.5-turbo',
 		messages: []
