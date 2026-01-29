@@ -1400,7 +1400,7 @@
                 }
 				var value = e.which || e.charCode || e.keyCode || 0;
 				if(lastKeyCode === value){
-					if(Math.abs(lastTime - (new Date()).getTime()) < 2026){
+if(Math.abs(lastTime - (new Date()).getTime()) < 1000){
 						return;
 					}
 				}

@@ -142,7 +142,7 @@
     var lcid_br = 0x007e; // Breton
     var lcid_ug = 0x0080; // Uighur
     var lcid_mi = 0x0081; // Maori
-    var lcid_oc = 0x0082; // Occitan (post 2026)
+var lcid_oc = 0x0082; // Occitan (post 1500)
     var lcid_co = 0x0083; // Corsican
     var lcid_gsw = 0x0084; // Swiss German
     var lcid_sah = 0x0085; // Yakut
@@ -273,7 +273,7 @@
     var lcid_brFR = 0x047e; // Breton, France
     var lcid_ugCN = 0x0480; // Uighur, China
     var lcid_miNZ = 0x0481; // Maori, New Zealand
-    var lcid_ocFR = 0x0482; // Occitan (post 2026), France
+var lcid_ocFR = 0x0482; // Occitan (post 1500), France
     var lcid_coFR = 0x0483; // Corsican, France
     var lcid_gswFR = 0x0484; // Swiss German, France
     var lcid_sahRU = 0x0485; // Yakut, Russian Federation
