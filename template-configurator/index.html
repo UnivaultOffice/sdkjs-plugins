@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Template Configurator</title>
+  <script type="text/javascript" src="https://univaultoffice.github.io/sdkjs-plugins/v1/plugins.js"></script>
+  <script type="text/javascript" src="https://univaultoffice.github.io/sdkjs-plugins/v1/plugins-ui.js"></script>
+  <link rel="stylesheet" href="https://univaultoffice.github.io/sdkjs-plugins/v1/plugins.css">
+  <link rel="stylesheet" href="resources/css/style.css">
+  <script type="text/javascript" src="scripts/code.js"></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="title">Шаблоны</div>
+        <button id="btnAddTemplate" class="btn">+ Добавить</button>
+      </div>
+      <div id="templateList" class="list"></div>
+      <div class="sidebar-footer">
+        <button id="btnExport" class="btn secondary">Экспорт</button>
+        <button id="btnImport" class="btn secondary">Импорт</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="main-header">
+        <div class="template-title">
+          <span id="templateName">—</span>
+          <button id="btnRenameTemplate" class="btn link">Переименовать</button>
+          <button id="btnDeleteTemplate" class="btn link danger">Удалить</button>
+        </div>
+        <div class="toolbar">
+          <button id="btnApply" class="btn primary">Применить</button>
+          <button id="btnSave" class="btn">Сохранить</button>
+        </div>
+      </header>
+
+      <div class="tabs">
+        <button class="tab active" data-tab="form">Форма</button>
+        <button class="tab" data-tab="rules">Правила</button>
+      </div>
+
+      <section id="tabForm" class="tab-panel active">
+        <div class="panel-header">
+          <div class="subtitle">Поля формы</div>
+          <button id="btnAddField" class="btn">+ Поле</button>
+        </div>
+        <div id="fieldsList" class="list"></div>
+      </section>
+
+      <section id="tabRules" class="tab-panel">
+        <div class="panel-header">
+          <div class="subtitle">Правила шаблона</div>
+          <button id="btnAddRule" class="btn">+ Правило</button>
+        </div>
+        <div id="rulesList" class="list"></div>
+      </section>
+    </main>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-body">
+      <div id="modalTitle" class="modal-title"></div>
+      <div id="modalContent"></div>
+      <div class="modal-actions">
+        <button id="modalCancel" class="btn secondary">Отмена</button>
+        <button id="modalOk" class="btn primary">OK</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
