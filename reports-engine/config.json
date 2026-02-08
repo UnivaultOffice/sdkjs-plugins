@@ -1,0 +1,21 @@
+{
+  "name": "Reports Engine",
+  "guid": "asc.{E5FE5DAD-A4EC-479E-AA84-179EB1E4EB27}",
+  "baseUrl": "",
+  "variations": [
+    {
+      "description": "Reports Engine",
+      "url": "index.html",
+      "icons": ["resources/img/icon.png", "resources/img/icon@2x.png"],
+      "isViewer": false,
+      "EditorsSupport": ["cell"],
+      "isVisual": false,
+      "isModal": false,
+      "isInsideMode": false,
+      "isSystem": true,
+      "initDataType": "desktop",
+      "initData": "reports",
+      "buttons": []
+    }
+  ]
+}
